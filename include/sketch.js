@@ -4,7 +4,6 @@ let url = bf_url[3];
 //nsole.log(url);
 
 
-
 let color_cd = [];
 
 
