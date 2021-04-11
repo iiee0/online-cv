@@ -25,15 +25,15 @@ for(let i = 0; i < new_color.length; i++){
 console.log(color_cd);
 
 function setup() {
-  createCanvas(1000, 1000);
   
+  createCanvas(1000, 1000);
   
   
 }
 
 function draw() {
-    background("#5BB66F");
-  
+  //background(220);
+  background("#5BB66F");
   
     
   let c = random(color_cd);
