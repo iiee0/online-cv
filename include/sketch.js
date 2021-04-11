@@ -4,6 +4,7 @@ let url = bf_url[3];
 //nsole.log(url);
 
 
+
 let color_cd = [];
 
 
@@ -27,10 +28,11 @@ function setup() {
   createCanvas(1000, 1000);
   
   
+  
 }
 
 function draw() {
-  background(220);
+    background("#5BB66F");
   
   
     
